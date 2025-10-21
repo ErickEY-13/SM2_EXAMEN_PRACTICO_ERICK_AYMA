@@ -6,10 +6,6 @@
 - **Fecha:** 21 de octubre de 2025
 - **Repositorio:** [SM2_EXAMEN_PRACTICO_ERICK_AYMA](https://github.com/ErickEY-13/SM2_EXAMEN_PRACTICO_ERICK_AYMA.git)
 
-## Credenciales de pruebas
-- **pablo@gmail.com**
-- **Zip_zip710!**
-
 ## Descripción del Proyecto
 Aplicación móvil desarrollada en Flutter que implementa un sistema de registro y visualización de historial de inicios de sesión, permitiendo a los usuarios monitorear cuándo y desde dónde han accedido a su cuenta.
 
@@ -97,5 +93,5 @@ Contacto:
 Erick Yoel Ayma Choque
 
 Resumen de entrega:
-- Archivo `README.md` con la información solicitada y las evidencias incrustadas.
+- Archivo `DELIVERABLE.md` con la información solicitada y las evidencias incrustadas.
 - Carpeta `evidence/` con las imágenes usadas.
